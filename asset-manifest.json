@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rps-game/static/css/main.296f6079.chunk.css",
+    "main.js": "/rps-game/static/js/main.e38fac47.chunk.js",
+    "main.js.map": "/rps-game/static/js/main.e38fac47.chunk.js.map",
+    "runtime~main.js": "/rps-game/static/js/runtime~main.f663d57f.js",
+    "runtime~main.js.map": "/rps-game/static/js/runtime~main.f663d57f.js.map",
+    "static/js/2.72557104.chunk.js": "/rps-game/static/js/2.72557104.chunk.js",
+    "static/js/2.72557104.chunk.js.map": "/rps-game/static/js/2.72557104.chunk.js.map",
+    "index.html": "/rps-game/index.html",
+    "precache-manifest.f00f900e0a86c68dda51efad559cfd95.js": "/rps-game/precache-manifest.f00f900e0a86c68dda51efad559cfd95.js",
+    "service-worker.js": "/rps-game/service-worker.js",
+    "static/css/main.296f6079.chunk.css.map": "/rps-game/static/css/main.296f6079.chunk.css.map",
+    "static/media/paper.png": "/rps-game/static/media/paper.619d1ee7.png",
+    "static/media/rock.png": "/rps-game/static/media/rock.602f85e5.png",
+    "static/media/scissors.png": "/rps-game/static/media/scissors.9defba7c.png"
+  }
+}
